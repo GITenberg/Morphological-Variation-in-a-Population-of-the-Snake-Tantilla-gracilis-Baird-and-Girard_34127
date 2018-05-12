@@ -1,0 +1,31 @@
+_repo: Morphological-Variation-in-a-Population-of-the-Snake-Tantilla-gracilis-Baird-and-Girard_34127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cole, Charles J.
+    gutenberg_agent_id: '36801'
+    url: http://www.gutenberg.org/2009/agents/36801
+  - agent_name: Hardy, Laurence M.
+    gutenberg_agent_id: '36800'
+    url: http://www.gutenberg.org/2009/agents/36800
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34127'
+  lccn: '73625548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Flat-headed snake'
+- !lcsh 'Snakes -- Anatomy'
+- !lcsh 'Reptiles -- Variation'
+title: Morphological Variation in a Population of the Snake, Tantilla gracilis Baird
+  and Girard
+url: http://www.gutenberg.org/ebooks/34127
