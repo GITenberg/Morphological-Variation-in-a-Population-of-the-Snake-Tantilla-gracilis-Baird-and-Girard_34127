@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36800'
     url: http://www.gutenberg.org/2009/agents/36800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34127#Morphological-Variation-in-a-Population-of-the-Snake-Tantilla-gracilis-Baird-and-Girard
 gutenberg_issued: '2010-10-24'
 gutenberg_type: Text
 identifiers:
